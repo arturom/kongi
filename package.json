@@ -1,0 +1,17 @@
+{
+  "name": "kongii",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "luamin": "^1.0.4",
+    "superagent": "^3.8.3"
+  },
+  "devDependencies": {
+    "@types/superagent": "^3.8.2",
+    "typescript": "^2.9.2"
+  }
+}

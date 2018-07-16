@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "outDir": "./built",
+        "allowJs": true,
+        "target": "es2016",
+        "lib": [
+            "dom",
+            "es2016",
+        ]
+    },
+    "include": [
+        "./src/**/*"
+    ]
+}
